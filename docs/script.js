@@ -1,1 +1,1 @@
-console.log("[template-web] Hello World!");
+console.log("[the-life-snake] init");
